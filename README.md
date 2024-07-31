@@ -1,20 +1,20 @@
-# Detects-a-face-_Arduino-HuskyLens-
+# Detects-a-Face-_Arduino-HuskyLens-
 The task involves connecting an LED to the Arduino board and using the HuskyLens device to detect faces and activate the LED upon detection.👁️
 
 ![Task](https://github.com/user-attachments/assets/118786a0-6d3e-40d0-9ace-ce5762587ae0)
 ![Task2](https://github.com/user-attachments/assets/7d71f22a-19b1-4e05-be89-3f43e212e362)
 
 ## Components
-- Arduino Uno board
-- Breadboard
-- Connecting wires
-- HuskyLens device
-- LED
+- Arduino Uno board.
+- Breadboard.
+- Connecting wires.
+- HuskyLens device.
+- LED.
 
 ## Requirements
-- Install the HuskyLens library for Arduino
-- Install the Arduino IDE
-- Necessary wires for connecting components
+- Install the HuskyLens library for Arduino.
+- Install the Arduino IDE.
+- Necessary wires for connecting components.
 
 ## Steps
 1. I Connecteded the LED to the Arduino board and the Breadboard.
