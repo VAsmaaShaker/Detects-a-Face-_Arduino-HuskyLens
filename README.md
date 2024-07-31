@@ -1,4 +1,4 @@
-# detects-a-face-_Arduino-HuskyLens-
+# Detects-a-face-_Arduino-HuskyLens-
 The task involves connecting an LED to the Arduino board and using the HuskyLens device to detect faces and activate the LED upon detection.👁️
 
 ![Task](https://github.com/user-attachments/assets/118786a0-6d3e-40d0-9ace-ce5762587ae0)
