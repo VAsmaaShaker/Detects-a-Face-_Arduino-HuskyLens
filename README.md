@@ -17,8 +17,8 @@ The task involves connecting an LED to the Arduino board and using the HuskyLens
 - Necessary wires for connecting components.
 
 ## Steps
-1. I Connecteded the LED to the Arduino board and the Breadboard.
-2. I Connect the HuskyLens device to the Arduino board using appropriate wires (use Serial or I2C protocol as per the connection). I used I2C, with documented instructions provided in the references.
+1. I Connected the LED to the Arduino board and the Breadboard.
+2. I Connected the HuskyLens device to the Arduino board using appropriate wires (use Serial or I2C protocol as per the connection). I used I2C, with documented instructions provided in the references.
 3. Set up the HuskyLens device to detect faces using the appropriate device settings.
 4. Upload the code: **The code is included with the repository**.
 
